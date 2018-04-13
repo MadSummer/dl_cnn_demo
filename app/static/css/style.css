@@ -1,0 +1,53 @@
+body {
+font-family: Arial;
+background-color: #2196F3;
+text-align:center; 
+
+}
+
+input {
+	text-align:center; 
+	padding: 12px 30px;
+	font-size: 22px;
+	transition-duration: 0.4s;
+	color: #042338;
+
+}
+
+.formCenter {
+ 	margin: 0 auto;
+    width: 50%;
+    padding-top: 8em;
+    
+    
+}
+
+
+button {
+    background-color: #1976D2; 
+    border: none;
+    color: #FFFFFF;
+    padding: 16px 135px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+button:hover {
+	background-color: #0D6AB7;
+}
+
+img {
+	height: 150px;
+	width: 150px;
+	align-content: center;
+}
+/*
+
+.restrictHW {
+	height: 600px;
+	width: 450px;
+}
